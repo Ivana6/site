@@ -30,7 +30,8 @@
         line-height: 1.6; /* Altura da linha */
         margin-bottom: 20px; /* Espaçamento inferior */
     }
-    .imagem {
+    .![image](https://github.com/Ivana6/site/assets/138230528/e3c4eed0-b06e-4a32-9c81-30d257b45a11)
+ {
         width: 80%; /* Largura da imagem */
         max-width: 600px; /* Largura máxima */
         height: auto; /* Altura ajustável */
@@ -240,7 +241,6 @@
     <h1>Desmatamento - Conscientização</h1>
   </header>
 
-
   <nav>
     <ul>
       <li><a href="index.html">Início</a></li>
@@ -250,8 +250,7 @@
     </ul>
   </nav>
 
-
-  <main>
+ <main>
     <section>
       <h2>Soluções para o Desmatamento</h2>
       <p>O desmatamento é um desafio global, mas existem medidas que podem ajudar a combater esse problema. Algumas das soluções incluem:</p>
@@ -266,58 +265,5 @@
     </section>
   </main>
 
-
   <footer>
     <p>&copy; 2023 Desmatamento - Conscientização. Todos os direitos reservados.</p>
-  </footer>
-</body>
-</html>
-/* styles.css */
-body {
- font-family: Arial, sans-serif;
- margin: 0;
- padding: 0;
-}
-
-
-header, nav, main, footer {
- margin: 20px;
-}
-
-
-h1, h2 {
- color: #2dce38;
-}
-
-
-nav ul {
- list-style-type: none;
- margin: 0;
- padding: 0;
-}
-
-
-nav ul li {
- display: inline;
- margin-right: 10px;
-}
-
-
-nav ul li a {
- text-decoration: none;
- color: #333;
-}
-
-
-img {
- max-width: 100%;
- height: auto;
-}
-
-
-footer {
- text-align: center;
- color: #888;
-}
-
-
